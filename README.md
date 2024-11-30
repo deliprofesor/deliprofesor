@@ -15,13 +15,6 @@ Areas of Expertise:
 - **Deep learning-based modeling**
 - **Strategic data solutions for education and disaster scenarios**
 - **Agile project management methodologies**
-  
-Highlight Projects:
-
-- **Search and Rescue with Swarm UAVs in a Virtual Environment: Achieved an 85% success rate in a search-and-rescue operation simulation using swarm UAVs, developed with ROS and Gazebo.**
-- **Deep Learning-Based Human Detection in Disaster Scenarios: Developed a YOLOv5-based model to accurately detect humans in various disaster conditions.**
-- **Global Earthquake Data Visualization: Created interactive analytics dashboards using Power BI to analyze global seismic activities.
-I am highly motivated to contribute to impactful projects in data science, leveraging analytical insights to create innovative solutions.**
 
 📫 Reach me at:
 
