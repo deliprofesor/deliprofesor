@@ -7,8 +7,6 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 
 I am a passionate Electronics and Communication Engineering student specializing in data analysis and data science. With a strong foundation in Python, R, and Julia, I excel at transforming complex datasets into actionable insights that drive informed decision-making. My expertise lies in cleaning, analyzing, and visualizing data while delivering tailored solutions to meet project goals.
 
-Throughout my academic journey, I have worked on diverse projects ranging from disaster management and educational simulations to autonomous systems. Leveraging tools like Gazebo, ROS, and Power BI, I have honed my analytical and problem-solving skills across multidisciplinary fields.
-
 Areas of Expertise:
 
 - **Data analysis and visualization**
