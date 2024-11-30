@@ -19,7 +19,7 @@ Areas of Expertise:
 📫 Reach me at:
 
 - **Email: ilknurylmz.1707@gmail.com**
-- **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**)](https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
+- **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/ **
   
 ✨ Explore my projects to learn more about my work! 😊
 
