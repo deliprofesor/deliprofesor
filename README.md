@@ -13,9 +13,8 @@ Areas of Expertise:
 - **Strategic data solutions for education and disaster scenarios**
 - **Agile project management methodologies**
 
-📫 Reach me at:
-- **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
-✨ Explore my projects to learn more about my work! 😊
+📫 - **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
+
 
 
 
