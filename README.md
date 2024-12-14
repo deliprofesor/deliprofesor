@@ -1,13 +1,9 @@
-### Hi there 👋
-
-
 
 <!--
 deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-
+![Header](https://github.com/deliprofesor/profile-assets/blob/main/github-header-image.png)
 
 
 ![Python](https://img.shields.io/badge/Code-Python-306998?style=flat&logo=python)
