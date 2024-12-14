@@ -38,16 +38,13 @@ Merhaba! Ben İlknur, Elektronik ve Haberleşme Mühendisliği son sınıf öğr
 - 🌐 **AR/VR Geliştirme:** Unity, Blender, Maya ile gerçek zamanlı projeler.
 - 🔧 **Devre ve Sistem Tasarımı:** STM32, Altium Designer ile elektronik projeler.
 
-## 📌 Öne Çıkan Projelerim
-1. [TÜBİTAK 2209-A AR Eğitim Platformu] - Devam ediyor 
-2. [Sanal Gerçeklik Otel Temizlik Eğitimi](https://www.linkedin.com/posts/ilknur-y-87a8b21b3_virtualreality-vr-ar-activity-7214950543855648768-Ddmk/?utm_source=share&utm_medium=member_android)
-
 
 ## 🏆 Başarılarım
 - Yapay Zeka ve Teknoloji Akademisi - Google-T3 AI Akademisi Bursiyeri
 - Future Skills Academy AR/VR Eğitim Başarısı (Avrupa Birliği Projesi)
 
 📫 - **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
+  - **https://www.kaggle.com/lknurylmaz**
 
 💡 Daha fazla bilgi için LinkedIn ve Kaggle profillerimi ziyaret edin!
 
