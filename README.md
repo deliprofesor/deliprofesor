@@ -12,6 +12,8 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![Unity](https://img.shields.io/badge/Engine-Unity-000?style=flat&logo=unity)
 ![Python](https://img.shields.io/badge/Code-Python-306998?style=flat&logo=python)
 
+![İlknur'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=dark)
+
 
 
 "Data really powers everything that we do."
