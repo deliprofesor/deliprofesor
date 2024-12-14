@@ -9,8 +9,18 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![GitHub Banner](https://raw.githubusercontent.com/deliprofesor/profile-assets/main/github-header-image.png)
 
 
-![Unity](https://img.shields.io/badge/Engine-Unity-000?style=flat&logo=unity)
+
 ![Python](https://img.shields.io/badge/Code-Python-306998?style=flat&logo=python)
+![R](https://img.shields.io/badge/R-Programming-blue?style=flat&logo=R)
+![Julia](https://img.shields.io/badge/Julia-Scientific%20Computing-9558B2?style=flat&logo=julia&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-3D%20Design-orange?style=flat&logo=blender&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Programming-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Engine-Unity-000?style=flat&logo=unity)
+![ROS](https://img.shields.io/badge/ROS-Robot%20Operating%20System-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-5830E0?style=flat&logo=gazebo)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat&logo=canva&logoColor=white)
+
 
 ![İlknur'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=dark)
 
