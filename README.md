@@ -43,8 +43,9 @@ Merhaba! Ben İlknur, Elektronik ve Haberleşme Mühendisliği son sınıf öğr
 - Yapay Zeka ve Teknoloji Akademisi - Google-T3 AI Akademisi Bursiyeri
 - Future Skills Academy AR/VR Eğitim Başarısı (Avrupa Birliği Projesi)
 
-📫 - **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
-  - **https://www.kaggle.com/lknurylmaz**
+
+- **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
+- **Kaggle: https://www.kaggle.com/lknurylmaz**
 
 💡 Daha fazla bilgi için LinkedIn ve Kaggle profillerimi ziyaret edin!
 
