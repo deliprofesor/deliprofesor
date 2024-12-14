@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-https://github.com/deliprofesor/profile-assets/blob/main/github-header-image.png
+
 
 <!--
 deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![GitHub Banner](https://raw.githubusercontent.com/deliprofesor/profile-assets/main/github-header-image.png)
 
 
 
