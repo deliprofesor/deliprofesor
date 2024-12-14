@@ -30,9 +30,6 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat&logo=canva&logoColor=white)
 
 
-![İlknur'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=dark)
-
-
 
 "Data really powers everything that we do."
 
