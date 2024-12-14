@@ -27,13 +27,30 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 
 
 
+# 👩‍💻 İlknur Yılmaz | Data Analyst & AR/VR Enthusiast
+
+Merhaba! Ben İlknur, Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim.
+
 "Data really powers everything that we do."
 
-I am a passionate Electronics and Communication Engineering student specializing in data analysis and data science. With a strong foundation in Python, R, and Julia, I excel at transforming complex datasets into actionable insights that drive informed decision-making. My expertise lies in cleaning, analyzing, and visualizing data while delivering tailored solutions to meet project goals.
+## 🌟 Uzmanlık Alanlarım
+- 📊 **Veri Analizi ve Makine Öğrenimi:** Python, Julia, R, TensorFlow, Scikit-learn.
+- 🌐 **AR/VR Geliştirme:** Unity, Blender, Maya ile gerçek zamanlı projeler.
+- 🔧 **Devre ve Sistem Tasarımı:** STM32, Altium Designer ile elektronik projeler.
+
+## 📌 Öne Çıkan Projelerim
+1. [TÜBİTAK 2209-A AR Eğitim Platformu]
+2. [Sanal Gerçeklik Otel Temizlik Eğitimi]
+3. [Swarm UAV Arama-Kurtarma Projesi]
+
+## 🏆 Başarılarım
+- TÜBİTAK 2209-A Araştırma Projesi Desteği
+- Google-T3 AI Akademisi Bursiyeri
+- Future Skills Academy AR/VR Eğitim Başarısı
 
 📫 - **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
 
-
+💡 Daha fazla bilgi için LinkedIn ve Kaggle profillerimi ziyaret edin!
 
 
 
