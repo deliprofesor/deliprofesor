@@ -4,7 +4,7 @@
 deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![github-header-image](https://github.com/user-attachments/assets/8ca64af7-103f-4aed-8327-43b231bcd3dc)
+
 
 "Data really powers everything that we do."
 
