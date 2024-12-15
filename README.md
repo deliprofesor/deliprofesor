@@ -44,11 +44,11 @@ Merhaba! Ben İlknur, Elektronik ve Haberleşme Mühendisliği son sınıf öğr
 - Future Skills Academy AR/VR Eğitim Başarısı (Avrupa Birliği Projesi) https://www.linkedin.com/posts/ilknur-y-87a8b21b3_virtualreality-vr-ar-activity-7214950543855648768-Ddmk/?utm_source=share&utm_medium=member_android
 
 
-- **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
-- **Kaggle: https://www.kaggle.com/lknurylmaz**
+
 
 💡 Daha fazla bilgi için LinkedIn ve Kaggle profillerimi ziyaret edin!
 
 
-
+- **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
+- **Kaggle: https://www.kaggle.com/lknurylmaz**
 
