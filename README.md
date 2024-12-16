@@ -29,7 +29,7 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 
 # 👩‍💻 İlknur Yılmaz | Data Analyst & AR/VR Enthusiast
 
-Merhaba! Ben İlknur, Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim.
+Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim.
 
 "Data really powers everything that we do."
 
