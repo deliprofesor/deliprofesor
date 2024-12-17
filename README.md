@@ -41,6 +41,9 @@ Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi
 - Yapay Zeka ve Teknoloji Akademisi - Google-T3 AI Akademisi Bursiyeri https://www.linkedin.com/posts/ilknur-y-87a8b21b3_yapayzeka-veribilimi-verianalizi-activity-7269983380891475968-0s-C?utm_source=share&utm_medium=member_android
 - Future Skills Academy AR/VR Eğitim Başarısı (Avrupa Birliği Projesi) https://www.linkedin.com/posts/ilknur-y-87a8b21b3_virtualreality-vr-ar-activity-7214950543855648768-Ddmk/?utm_source=share&utm_medium=member_android
 
+Yarışmalar:
+
+Hava Savunma Sistemleri ve Sabit Kanat İnsansız Hava Aracı yarışmalarında kazandığım deneyimler sayesinde, İHA sistemleri, algılama, hedef takibi ve veri işleme alanlarında derinlemesine bilgi sahibi oldum. 
 
 💡 Daha fazla bilgi için LinkedIn ve Kaggle profillerimi ziyaret edin!
 
