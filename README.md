@@ -34,7 +34,6 @@ Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi
 ## 🌟 Uzmanlık Alanlarım
 - 📊 **Veri Analizi ve Makine Öğrenimi:** Python, Julia, R, TensorFlow, Scikit-learn.
 - 🌐 **AR/VR Geliştirme:** Unity, Blender, Maya ile gerçek zamanlı projeler.
-- 🔧 **Devre ve Sistem Tasarımı:** STM32, Altium Designer ile elektronik projeler.
 
 
 ## 🏆 Başarılarım
