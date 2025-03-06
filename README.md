@@ -5,7 +5,6 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 
 ![Header](https://github.com/deliprofesor/profile-assets/blob/main/github-header-image.png)
 
-
 ![Python](https://img.shields.io/badge/Code-Python-306998?style=flat&logo=python)
 ![R](https://img.shields.io/badge/R-Programming-blue?style=flat&logo=R)
 ![Julia](https://img.shields.io/badge/Julia-Scientific%20Computing-9558B2?style=flat&logo=julia&logoColor=white)
@@ -26,23 +25,22 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat&logo=canva&logoColor=white)
 
 
-
-Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim.
+Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim. Yapısal ve yapısal olmayan verilerle çalışarak analizler yapıyor, veri görselleştirme teknikleri kullanıyor ve makine öğrenimi algoritmalarını uyguluyorum. Aynı zamanda artırılmış ve sanal gerçeklik projeleri için 3D modeller tasarlıyorum.
 
 "Data really powers everything that we do."
 
-## 🌟 Uzmanlık Alanlarım
-- 📊 **Veri Analizi ve Makine Öğrenimi:** Python, Julia, R, TensorFlow, Scikit-learn.
-- 🌐 **AR/VR Geliştirme:** Unity, Blender, Maya ile gerçek zamanlı projeler.
+Çalışma Alanlarım
 
+- Veri Analizi & Veri Bilimi: Python, R, Julia, SQL, Pandas, NumPy, Scikit-learn
+- Makine Öğrenimi & Görüntü İşleme: TensorFlow, OpenCV, YOLO, DeepSORT
+- Veri Görselleştirme: Power BI, Tableau, Matplotlib, Seaborn
+- Büyük Veri & Veritabanı Yönetimi: PostgreSQL, MongoDB, Apache Spark
+- 3D Modelleme & Animasyon: Blender, Maya, Unity
+- Artırılmış Gerçeklik & Sanal Gerçeklik: Unity, C#
 
-- Yapay Zeka ve Teknoloji Akademisi - Google-T3 AI Akademisi Bursiyeri https://www.linkedin.com/posts/ilknur-y-87a8b21b3_yapayzeka-veribilimi-verianalizi-activity-7269983380891475968-0s-C?utm_source=share&utm_medium=member_android
-- Future Skills Academy AR/VR Eğitim Başarısı (Avrupa Birliği Projesi) https://www.linkedin.com/posts/ilknur-y-87a8b21b3_virtualreality-vr-ar-activity-7214950543855648768-Ddmk/?utm_source=share&utm_medium=member_android
+📫 İletişim & Portfolyo
+📧 E-mail: ilknurylmz.1707@gmail.com
+💻 GitHub: github.com/deliprofesor
+🔗 LinkedIn: [linkedin.com/in/ilknurylmz](https://www.linkedin.com/in/ilknur-y-87a8b21b3/)
 
-
-💡 Daha fazla bilgi için LinkedIn ve Kaggle profillerimi ziyaret edin!
-
-
-- **LinkedIn: https://www.linkedin.com/in/ilknur-y-87a8b21b3/**
-- **Kaggle: https://www.kaggle.com/lknurylmaz**
 
