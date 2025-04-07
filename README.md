@@ -39,7 +39,7 @@ Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sın�
 - 3D Modelleme & Animasyon: Blender, Maya, Unity
 - Artırılmış Gerçeklik & Sanal Gerçeklik: Unity, C#
 
-- İletişim & Portfolyo
+İletişim & Portfolyo
 - E-mail: ilknurylmz.1707@gmail.com
 - LinkedIn: [linkedin.com/in/ilknurylmz](https://www.linkedin.com/in/ilknur-y-87a8b21b3/)
 
