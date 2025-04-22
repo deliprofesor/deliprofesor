@@ -29,6 +29,9 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim. Yapısal ve yapısal olmayan verilerle çalışarak analizler yapıyor, veri görselleştirme teknikleri kullanıyor ve makine öğrenimi algoritmalarını uyguluyorum. Aynı zamanda artırılmış ve sanal gerçeklik projeleri için 3D modeller tasarlıyorum.
 
 "Data really powers everything that we do."
+![Ilknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliprofesor&layout=compact&theme=radical)
+
 
 Çalışma Alanlarım
 
