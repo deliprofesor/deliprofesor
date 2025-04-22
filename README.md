@@ -45,7 +45,10 @@ Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sın�
 ![Ilknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliprofesor&layout=compact&theme=radical)
 
-<p align="left"> <a href="mailto:ilknurylmz.1707@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-ilknurylmz.1707@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ilknur-y-87a8b21b3/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ilknur--y-blue?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@ilknurylmz.1707" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-@ilknurylmz.1707-000000?style=flat&logo=medium&logoColor=white" /> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilknur-y-87a8b21b3/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@ilknurylmz.1707)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ilknurylmz.1707@gmail.com)
+
 
 
 
