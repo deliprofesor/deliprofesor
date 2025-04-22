@@ -25,11 +25,6 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat&logo=canva&logoColor=white)
 
 
-
-Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim. Yapısal ve yapısal olmayan verilerle çalışarak analizler yapıyor, veri görselleştirme teknikleri kullanıyor ve makine öğrenimi algoritmalarını uyguluyorum. Aynı zamanda artırılmış ve sanal gerçeklik projeleri için 3D modeller tasarlıyorum.
-
-"Data really powers everything that we do."
-
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
@@ -43,21 +38,17 @@ Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sın�
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
 
+Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sınıf öğrencisiyim. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim. Yapısal ve yapısal olmayan verilerle çalışarak analizler yapıyor, veri görselleştirme teknikleri kullanıyor ve makine öğrenimi algoritmalarını uyguluyorum. Aynı zamanda artırılmış ve sanal gerçeklik projeleri için 3D modeller tasarlıyorum.
+
+"Data really powers everything that we do."
+
 ![Ilknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliprofesor&layout=compact&theme=radical)
 
 
-Çalışma Alanlarım
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/kullaniciadi)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium)](https://medium.com/@kullaniciadi)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:ilknurylmz.1707@gmail.com)
 
-- Veri Analizi & Veri Bilimi: Python, R, Julia, SQL, Pandas, NumPy, Scikit-learn
-- Makine Öğrenimi & Görüntü İşleme: TensorFlow, OpenCV, YOLO, DeepSORT
-- Veri Görselleştirme: Power BI, Tableau, Matplotlib, Seaborn
-- Büyük Veri & Veritabanı Yönetimi: PostgreSQL, MongoDB, Apache Spark
-- 3D Modelleme & Animasyon: Blender, Maya, Unity
-- Artırılmış Gerçeklik & Sanal Gerçeklik: Unity, C#
-
-İletişim & Portfolyo
-- E-mail: ilknurylmz.1707@gmail.com
-- LinkedIn: [linkedin.com/in/ilknurylmz](https://www.linkedin.com/in/ilknur-y-87a8b21b3/)
 
 
