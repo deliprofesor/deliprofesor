@@ -30,6 +30,19 @@ Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği son sın�
 
 "Data really powers everything that we do."
 
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0E4D92?logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+
+
 ![Ilknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliprofesor&layout=compact&theme=radical)
 
