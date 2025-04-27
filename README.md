@@ -28,16 +28,16 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-FDBD2B?logo=autodesk&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-### Languages:
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg)
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
 
-### Tools:
-![Blender](https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg)
-![Unity](https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg)
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 # Hi there, I'm Ilknur 👋
 
 Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim. Yapısal ve yapısal olmayan verilerle çalışarak analizler yapıyor, veri görselleştirme teknikleri kullanıyor ve makine öğrenimi algoritmalarını uyguluyorum. Aynı zamanda artırılmış ve sanal gerçeklik projeleri için 3D modeller tasarlıyorum.
