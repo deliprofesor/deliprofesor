@@ -29,6 +29,10 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![Maya](https://img.shields.io/badge/Maya-FDBD2B?logo=autodesk&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim. Yapısal ve yapısal olmayan verilerle çalışarak analizler yapıyor, veri görselleştirme teknikleri kullanıyor ve makine öğrenimi algoritmalarını uyguluyorum. Aynı zamanda artırılmış ve sanal gerçeklik projeleri için 3D modeller tasarlıyorum.
 
 "Data really powers everything that we do."
