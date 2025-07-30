@@ -3,7 +3,7 @@
 deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Header]<img width="873" height="292" alt="image" src="https://github.com/user-attachments/assets/9e6d2139-2dd2-45c1-8259-6c913b397a00" />
+<img width="873" height="292" alt="image" src="https://github.com/user-attachments/assets/9e6d2139-2dd2-45c1-8259-6c913b397a00" />
 
 
 <!-- Veri Analizi, Görselleştirme ve Makine Öğrenmesi -->
