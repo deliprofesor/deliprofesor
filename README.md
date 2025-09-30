@@ -44,6 +44,13 @@ I am passionate about transforming raw data into actionable insights and buildin
 
 ---
 
+## 🎓 Training & Certifications  
+
+- **Data Analytics Specialist Certification Program** — İzmir Kâtip Çelebi University (EU-funded MoLSS Initiative), 2025  
+- **Data Science Fellow** — Artificial Intelligence and Technology Academy, 2024–2025  
+- **Data Analysis Bootcamp** — Kız Başına, 2025  
+---
+
 ## 🛠️ Technical Skills  
 
 **Programming & Data**  
