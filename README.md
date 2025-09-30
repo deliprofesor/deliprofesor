@@ -5,13 +5,49 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 
 <img width="873" height="292" alt="image" src="https://github.com/user-attachments/assets/9e6d2139-2dd2-45c1-8259-6c913b397a00" />
 
+# Hi there, I'm İlknur Yılmaz 👋  
+**Data Analyst | Data Scientist | AI Enthusiast**  
 
-<!-- Veri Analizi, Görselleştirme ve Makine Öğrenmesi -->
+📧 [Email](mailto:ilknurylmz.1707@gmail.com) |  
+💻 [GitHub](https://github.com/deliprofesor) |  
+🔗 [LinkedIn](https://www.linkedin.com/in/ilknuryilmaz0/) |  
+📊 [Kaggle](https://www.kaggle.com/lknurylmaz) |  
+✍️ [Medium](https://medium.com/@deliprofesor)  
+
+---
+
+## 👩‍💻 About Me  
+I am an aspiring **Data Analyst & Data Scientist** with hands-on experience in:  
+- Data preprocessing, cleaning, and statistical analysis  
+- Machine learning model development (regression, classification, anomaly detection)  
+- Advanced visualization using **Power BI, Tableau, Matplotlib, Plotly**  
+- AI-powered solutions including **vector databases, RAG, and model fine-tuning**  
+
+I am passionate about transforming raw data into actionable insights and building AI-driven solutions that create real-world impact.  
+
+---
+
+## 🚀 Projects  
+- **Patient Assistant / AI-Powered Healthcare Assistant**  
+  Developed healthcare data pipelines with preprocessing, embeddings, and **RAG integration**. Contributed to fine-tuning of the **MedGEMMA** model for intelligent medical Q&A.  
+
+- **Datathon 2025 | Google AI Academy – Product Price Prediction**  
+  Built a **LightGBM regression model** on a dataset with 227K+ records. Improved RMSE via **EDA, feature engineering, Optuna hyperparameter tuning**, and time-series adjustments.  
+
+- **Sütaş Sales Analysis Report**  
+  Designed an interactive **Power BI dashboard** to visualize sales performance, customer behavior, and revenue distribution across categories.  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Programming & Data**  
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
+
+**Libraries & Frameworks**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
@@ -20,29 +56,27 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+**Visualization & BI Tools**  
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-<!-- Geliştirme, 3D ve Tasarım -->
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-FDBD2B?logo=autodesk&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+---
 
-# Hi there, I'm Ilknur 👋
+## 📈 GitHub Analytics  
 
-Merhaba, ben İlknur Yılmaz. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bilimi, artırılmış ve sanal gerçeklik (AR/VR) teknolojileriyle yeni nesil çözümler geliştirme tutkusuna sahibim. Yapısal ve yapısal olmayan verilerle çalışarak analizler yapıyor, veri görselleştirme teknikleri kullanıyor ve makine öğrenimi algoritmalarını uyguluyorum. Aynı zamanda artırılmış ve sanal gerçeklik projeleri için 3D modeller tasarlıyorum.
+![Ilknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliprofesor&layout=compact&theme=radical)  
 
-"Data really powers everything that we do."
+---
 
-![Ilknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deliprofesor&layout=compact&theme=radical)
+## 🌱 Currently Learning  
+- Advanced **Machine Learning** & **Deep Learning** techniques  
+- **RAG architectures** with vector databases  
+- Data storytelling & advanced BI reporting  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilknur-y-87a8b21b3/)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@deliprofesor)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ilknurylmz.1707@gmail.com)
+---
 
-
-
-
+✨ *“Data really powers everything that we do.”*  
