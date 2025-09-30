@@ -8,11 +8,16 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
 # Hi there, I'm İlknur Yılmaz 👋  
 **Data Analyst | Data Scientist | AI Enthusiast**  
 
-📧 [Email](mailto:ilknurylmz.1707@gmail.com) |  
-💻 [GitHub](https://github.com/deliprofesor) |  
-🔗 [LinkedIn](https://www.linkedin.com/in/ilknuryilmaz0/) |  
-📊 [Kaggle](https://www.kaggle.com/lknurylmaz) |  
-✍️ [Medium](https://medium.com/@deliprofesor)  
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:ilknurylmz.1707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/deliprofesor"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ilknuryilmaz0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/lknurylmaz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://medium.com/@deliprofesor"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
 
 ---
 
