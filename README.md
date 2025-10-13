@@ -3,7 +3,7 @@
 deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 👋 Hi there, I'm İlknur Yılmaz  
-** Data Analyst | Data Scientist | AI Enthusiast**
+  ** Data Analyst | Data Scientist | AI Enthusiast**
 
 ---
 
@@ -104,22 +104,6 @@ I'm an aspiring **Data Analyst & Data Scientist** passionate about transforming 
 
 ---
 
-## 📈 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deliprofesor&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliprofesor&layout=compact&theme=radical" height="165" />
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=deliprofesor&color=blue&style=flat-square)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deliprofesor&theme=radical&no-bg=true&margin-w=15)
-
----
-
 > ✨ *“Data really powers everything that we do.”* — Jeff Weiner  
 
 ---
-
-
-
-</details>
