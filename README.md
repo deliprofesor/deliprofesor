@@ -3,8 +3,6 @@
 deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img width="873" height="292" alt="image" src="https://github.com/user-attachments/assets/9e6d2139-2dd2-45c1-8259-6c913b397a00" />
-
 # Hi there, I'm İlknur Yılmaz 👋  
 **Data Analyst | Data Scientist | AI Enthusiast**  
 
@@ -17,8 +15,6 @@ deliprofesor/deliprofesor** is a ✨ _special_ ✨ repository because its `READM
   <a href="https://www.kaggle.com/lknurylmaz"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://medium.com/@deliprofesor"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-
 ---
 
 ## 👩‍💻 About Me  
@@ -31,26 +27,6 @@ I am an aspiring **Data Analyst & Data Scientist** with hands-on experience in:
 I am passionate about transforming raw data into actionable insights and building AI-driven solutions that create real-world impact.  
 
 ---
-
-## 🚀 Projects  
-- **Patient Assistant / AI-Powered Healthcare Assistant**  
-  Developed healthcare data pipelines with preprocessing, embeddings, and **RAG integration**. Contributed to fine-tuning of the **MedGEMMA** model for intelligent medical Q&A.  
-
-- **Datathon 2025 | Google AI Academy – Product Price Prediction**  
-  Built a **LightGBM regression model** on a dataset with 227K+ records. Improved RMSE via **EDA, feature engineering, Optuna hyperparameter tuning**, and time-series adjustments.  
-
-- **Sütaş Sales Analysis Report**  
-  Designed an interactive **Power BI dashboard** to visualize sales performance, customer behavior, and revenue distribution across categories.  
-
----
-
-## 🎓 Training & Certifications  
-
-- **Data Analytics Specialist Certification Program** — İzmir Kâtip Çelebi University (EU-funded MoLSS Initiative), 2025  
-- **Data Science Fellow** — Artificial Intelligence and Technology Academy, 2024–2025  
-- **Data Analysis Bootcamp** — Kız Başına, 2025  
----
-
 ## 🛠️ Technical Skills  
 
 **Programming & Data**  
@@ -74,6 +50,26 @@ I am passionate about transforming raw data into actionable insights and buildin
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+## 🚀 Projects  
+- **Patient Assistant / AI-Powered Healthcare Assistant**  
+  Developed healthcare data pipelines with preprocessing, embeddings, and **RAG integration**. Contributed to fine-tuning of the **MedGEMMA** model for intelligent medical Q&A.  
+
+- **Datathon 2025 | Google AI Academy – Product Price Prediction**  
+  Built a **LightGBM regression model** on a dataset with 227K+ records. Improved RMSE via **EDA, feature engineering, Optuna hyperparameter tuning**, and time-series adjustments.  
+
+- **Sütaş Sales Analysis Report**  
+  Designed an interactive **Power BI dashboard** to visualize sales performance, customer behavior, and revenue distribution across categories.  
+
+---
+
+## 🎓 Training & Certifications  
+
+- **Data Analytics Specialist Certification Program** — İzmir Kâtip Çelebi University (EU-funded MoLSS Initiative), 2025  
+- **Data Science Fellow** — Artificial Intelligence and Technology Academy, 2024–2025  
+- **Data Analysis Bootcamp** — Kız Başına, 2025  
+---
+
+
 
 ---
 
@@ -92,3 +88,16 @@ I am passionate about transforming raw data into actionable insights and buildin
 ---
 
 ✨ *“Data really powers everything that we do.”*  
+
+---
+
+## 🏅 Achievements & Badges  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Datathon%20Participant-0056D2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle%20Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI%20Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Fellow-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Projects%20Builder-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
