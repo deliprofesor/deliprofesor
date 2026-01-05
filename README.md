@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | Data Scientist | AI Enthusiast
 
-[cite_start]Aspiring Data Analyst & Data Scientist with a strong foundation in **Python, R, SQL** [cite: 5][cite_start], and core data science libraries (**TensorFlow, PyTorch, Scikit-Learn**)[cite: 45]. [cite_start]Focused on transforming complex datasets into actionable business insights [cite: 4] [cite_start]and developing **AI-driven solutions**[cite: 4]. [cite_start]Experienced in data preprocessing, statistical analysis [cite: 4][cite_start], and integrating advanced AI techniques like **Vector Databases** and **RAG** (Retrieval-Augmented Generation)[cite: 6].
+Aspiring Data Analyst & Data Scientist with a strong foundation in **Python, R, SQL**, and core data science libraries (**TensorFlow, PyTorch, Scikit-Learn**). Focused on transforming complex datasets into actionable business insights and developing **AI-driven solutions**. Experienced in data preprocessing, statistical analysis, and integrating advanced AI techniques like **Vector Databases** and **RAG** (Retrieval-Augmented Generation).
 
 ---
 
@@ -21,13 +21,14 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Data Science Tools
+
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, R, SQL, Julia, C# [cite: 44] |
-| **ML/DL & Libraries** | [cite_start]TensorFlow, Keras, Scikit-Learn, PyTorch, OpenCV [cite: 45] |
-| **Data & Core Tools** | [cite_start]Pandas, NumPy, Minitab, SPSS, Excel [cite: 35, 45] |
-| **Visualization & BI** | [cite_start]Power BI, Tableau, Matplotlib, Plotly [cite: 5, 45] |
-| **AI/LLM Concepts** | [cite_start]RAG, Vector Databases, Model Fine-tuning [cite: 6] |
+| **Languages** | Python, R, SQL, Julia, C# |
+| **ML/DL & Libraries** | TensorFlow, Keras, Scikit-Learn, PyTorch, OpenCV |
+| **Data & Core Tools** | Pandas, NumPy, Minitab, SPSS, Excel |
+| **Visualization & BI** | Power BI, Tableau, Matplotlib, Plotly |
+| **AI/LLM Concepts** | RAG, Vector Databases, Model Fine-tuning |
 
 <p align="center">
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -37,14 +38,12 @@
   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 </p>
 
-### 🎓 Education & Certifications
-* **B.Sc. [cite_start]Electronics and Communication Engineering** — Karadeniz Technical University (Graduated as of July 2025) [cite: 42]
-* [cite_start]**Data Analytics Specialist Program** — İzmir Kâtip Çelebi University (560+ hours, EU-funded) [cite: 35]
-* [cite_start]**Data Science Fellowship** — Artificial Intelligence and Technology Academy (Ongoing) [cite: 36]
+### Education & Certifications
+* **B.Sc. Electronics and Communication Engineering** — Karadeniz Technical University (Graduated as of July 2025)
+* **Data Analytics Specialist Program** — İzmir Kâtip Çelebi University (560+ hours, EU-funded)
+* **Data Science Fellowship** — Artificial Intelligence and Technology Academy (Graduated as for August 2025)
 
 ---
 
-### 🔑 Why Work with Me? 
+###  Why Work with Me? (
 I combine a strong engineering background with specialized data science training. I deliver robust, AI-powered solutions—from data cleaning and statistical analysis to implementing complex RAG systems and model fine-tuning. I am committed to turning your data challenges into clear, data-driven decisions.
-
-***
