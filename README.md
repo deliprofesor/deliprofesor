@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm İlknur Yılmaz
+#  Hi there, I'm İlknur Yılmaz
 
 ### 📊 Data Analyst | Data Scientist | AI Enthusiast
 
@@ -22,20 +22,33 @@ Aspiring Data Analyst & Data Scientist with a strong foundation in **Python, R, 
 
 ### 💻 Programming & Data Science Tools
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python, R, SQL, Julia, C# |
-| **ML/DL & Libraries** | TensorFlow, Keras, Scikit-Learn, PyTorch, OpenCV |
-| **Data & Core Tools** | Pandas, NumPy, Minitab, SPSS, Excel |
-| **Visualization & BI** | Power BI, Tableau, Matplotlib, Plotly |
-| **AI/LLM Concepts** | RAG, Vector Databases, Model Fine-tuning |
-
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white" alt="Julia" />
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
+    <br>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" alt="Keras" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV" />
+    <br>
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel" />
+    <img src="https://img.shields.io/badge/Minitab-008C3C?style=flat-square&color=gray" alt="Minitab" />
+    <img src="https://img.shields.io/badge/SPSS-1D1E6B?style=flat-square&color=gray" alt="SPSS" />
+    <br>
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="Power BI" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" />
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly" />
+    <br>
+    <img src="https://img.shields.io/badge/RAG-000080?style=for-the-badge&color=blue" alt="RAG" />
+    <img src="https://img.shields.io/badge/Vector%20Databases-4B0082?style=for-the-badge&color=purple" alt="Vector Databases" />
+    <img src="https://img.shields.io/badge/Model%20Fine--Tuning-8B0000?style=for-the-badge&color=red" alt="Model Fine-tuning" />
 </p>
 
 ### Education & Certifications
