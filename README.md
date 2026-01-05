@@ -1,12 +1,12 @@
 #  Hi there, I'm İlknur Yılmaz
 
-### 📊 Data Analyst | Data Scientist | AI Enthusiast
+### Data Analyst | Data Scientist | AI Enthusiast
 
 Aspiring Data Analyst & Data Scientist with a strong foundation in **Python, R, SQL**, and core data science libraries (**TensorFlow, PyTorch, Scikit-Learn**). Focused on transforming complex datasets into actionable business insights and developing **AI-driven solutions**. Experienced in data preprocessing, statistical analysis, and integrating advanced AI techniques like **Vector Databases** and **RAG** (Retrieval-Augmented Generation).
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="mailto:ilknurylmz.1707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -18,9 +18,9 @@ Aspiring Data Analyst & Data Scientist with a strong foundation in **Python, R, 
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming & Data Science Tools
+###  Programming & Data Science Tools
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
@@ -58,5 +58,5 @@ Aspiring Data Analyst & Data Scientist with a strong foundation in **Python, R, 
 
 ---
 
-###  Why Work with Me? (
+###  Why Work with Me? 
 I combine a strong engineering background with specialized data science training. I deliver robust, AI-powered solutions—from data cleaning and statistical analysis to implementing complex RAG systems and model fine-tuning. I am committed to turning your data challenges into clear, data-driven decisions.
