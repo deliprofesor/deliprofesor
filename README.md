@@ -48,18 +48,6 @@ My expertise spans from **advanced statistical analysis** to cutting-edge AI tec
 
 ---
 
-##  Experience
-
-### **Data Science Trainee & Fellow**
-**Yapay Zeka ve Teknoloji Akademisi** | *Dec 2024 - Aug 2025*
-* Participated in an intensive 9-month fellowship focused on Data Science, AI, and Entrepreneurship.
-* **Key Projects:**
-    * **Health Tech:** Developed AI-assisted healthcare solutions.
-    * **Price Prediction:** Built robust models for market price forecasting.
-    * **Full-Stack AI:** Integrated models using **FastAPI** (Backend) and **React** (Frontend).
-* **Methodology:** Applied **Agile** project management to deliver data-driven solutions in team environments.
-
----
 
 ##  Education & Certifications
 
