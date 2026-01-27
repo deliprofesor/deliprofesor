@@ -19,33 +19,34 @@ My expertise spans from **advanced statistical analysis** to cutting-edge AI tec
 </p>
 
 ---
+###  Data Science & Statistical Analysis
 
-##  Technical Skills
-
-### Data Science & Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/SPSS-1D1E6B?style=flat&color=gray" />
-  <img src="https://img.shields.io/badge/Jamovi-211F54?style=flat&color=blue" />
-  <img src="https://img.shields.io/badge/JASP-003057?style=flat&color=lightblue" />
-  <img src="https://img.shields.io/badge/A/B%20Testing-FF4B4B?style=flat" />
+  <img src="https://img.shields.io/badge/Hypothesis_Testing-FF4B4B?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/A/B_Testing-008080?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression_Analysis-2E8B57?style=flat&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/SPSS-1D1E6B?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jamovi-211F54?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/JASP-003057?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
 </p>
 
-### Deployment & AI Engineering
+###  Machine Learning & AI Engineering
+
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/RAG-000080?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-4B0082?style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/badge/Agile-0052CC?logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-000080?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge&color=purple" />
 </p>
 
+---
 ---
 
 
