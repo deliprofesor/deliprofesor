@@ -2,9 +2,7 @@
 
 ### Data Analyst | Data Scientist | AI Enthusiast
 
-Aspiring Data Analyst & Data Scientist with a strong engineering background in **Electronics and Communication Engineering**. I specialize in transforming complex datasets into actionable business insights and building AI-driven solutions.
-
-My expertise spans from **advanced statistical analysis** to cutting-edge AI techniques like **RAG (Retrieval-Augmented Generation)**, **Vector Databases**, and **FastAPI** integration.
+Leveraging a rigorous engineering background in Electronics and Communication, I specialize in transforming complex, large-scale datasets into strategic business insights. My expertise bridges the gap between advanced statistical analysis and modern AI implementation, including RAG (Retrieval-Augmented Generation) and Vector Databases. I focus on building end-to-end data solutions by integrating analytical models into scalable applications using FastAPI.
 
 ---
 
