@@ -2,6 +2,7 @@
 
 ### Data Analyst | Data Scientist | AI Enthusiast
 
+As an Electronics and Communication Engineer and Data Analyst, I bridge the gap between engineering precision and data-driven insights. Certified in Google Advanced Data Analytics, I specialize in transforming complex datasets into strategic decisions through Hypothesis Testing, Statistical Modeling, and Machine Learning. I am passionate about crafting compelling visual stories using Python, R, and Power BI to make data accessible and actionable.
 
 ---
 
