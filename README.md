@@ -17,58 +17,32 @@ As an Electronics and Communication Engineer and Data Analyst, I bridge the gap 
 </p>
 
 ---
-###  Data Science & Statistical Analysis
+###  Tech Stack & Data Science Toolbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Hypothesis_Testing-FF4B4B?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/A/B_Testing-008080?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression_Analysis-2E8B57?style=flat&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/SPSS-1D1E6B?style=flat&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jamovi-211F54?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/JASP-003057?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPSS-0073AA?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
-
-###  Machine Learning & AI Engineering
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Systems-000080?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-0080FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
-
----
----
-
-
-##  Education & Certifications
-
-###  Google Advanced Data Analytics Professional Certificate
-*Issued by Google (via Coursera)*
-* Specialized in advanced statistical analysis, regression modeling, hypothesis testing, and predictive analytics.
-
-###  İzmir Kâtip Çelebi University — Data Analytics Specialist
-*Jan 2025 - July 2025*
-* **E-DATA Project:** Focused on Business Integration with Data Analytics, Generative AI, and Advanced Statistics.
-* **Tools:** Python, R, SPSS, Jamovi, Excel, JASP.
-
-###  KızBaşına x Patika.dev — Data Analytics Bootcamp
-*April 2025 - July 2025*
-* Hands-on experience with real-world datasets, focusing on EDA, SQL, and Power BI visualization.
-
-###  B.Sc. Electronics and Communication Engineering
-*Karadeniz Technical University (2025)*
-
----
-
-##  Why Work with Me?
-I bridge the gap between **Engineering** and **Data Science**. My experience in a 9-month fellowship, combined with Google’s advanced certification, allows me to build not just "models," but complete AI-powered systems that solve real-world problems.
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
